@@ -13,3 +13,5 @@ The complete code with data preprocessing and model building and evaluation is i
 In the project, we have used Python and NLP releated libraries like nltk, tensorflow, pandas, numpy, scikit-learn and many more.
 We have build and experimented with wide variety of models ranging from classical machine learning models like random forest, extra trees, xgboost, catboost
 to deep learning models like LSTM, RNN and pretrained models like bert.
+
+Please read the report here: 
